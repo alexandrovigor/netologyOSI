@@ -1,0 +1,9 @@
+### ignore idea fails ###
+.idea
+*.iml
+### ignore autofill ###
+out/
+target/
+
+
+
